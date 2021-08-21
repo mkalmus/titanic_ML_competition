@@ -1,2 +1,3 @@
-# titanic_ML_competition
- Submission and discussion notebook for Kaggle's introductory ML competition
+# Kaggle Titanic Machine Learning Competition Entry
+Competition Link: https://www.kaggle.com/c/titanic
+Submission and discussion notebook for Kaggle's introductory ML competition
